@@ -1,6 +1,5 @@
-#Title 
+#Title
 ##Subtitle 
 
-This is ins **bold**, this is in "italics"
-
-
+This is in **bold**, this is in "italics"
+These are some development changes 
